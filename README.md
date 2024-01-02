@@ -6,5 +6,6 @@
 ![5](https://github.com/amanverma2253/major-project/assets/80351823/8bd2709a-d966-499e-8859-04b03d22256c)
 ![logistic map samples](https://github.com/amanverma2253/major-project/assets/80351823/0c4675b1-22eb-41ef-b12e-6f15281bf232)
 ![samples genrated by cheb map](https://github.com/amanverma2253/major-project/assets/80351823/16beb00a-80b6-4995-8974-e93f9fcee894)
+![res](https://github.com/amanverma2253/major-project/assets/80351823/f37e7a59-ff50-4566-bf07-ed0c8469b3b9)
 ![bifurcation_diagram](https://github.com/amanverma2253/major-project/assets/80351823/a6c1508b-7309-4f79-b841-74aebf487e99)
 
