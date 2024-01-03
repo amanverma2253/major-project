@@ -34,7 +34,7 @@ input_data = np.array([1, 0, 1, 1, 0, 1, 0, 0, 1, 0])  # Example integer data
 # Generating a chaotic signal using logistic map with 1000 samples
 n_samples = 1000
 chaotic_signal_logistic = np.zeros(n_samples)
-r = 3.9  # Logistic map parameter
+r = 3.9  # Logistic map parameter       
 x_logistic = 0.5  # Initial value for logistic map
 for i in range(n_samples):
     chaotic_signal_logistic[i] = x_logistic
