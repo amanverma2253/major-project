@@ -1,6 +1,9 @@
 # Flowchart
 ![Flowchart](https://github.com/amanverma2253/major-project/assets/80351823/37a65bb5-ff34-4665-b3d6-2b9565b8af5d)
 
+![log](https://github.com/amanverma2253/major-project/assets/80351823/bef132e3-45fd-413a-b278-f49a2c9db025)
+
+
 ![1](https://github.com/amanverma2253/major-project/assets/80351823/7f0561c0-b3db-41a9-9663-edc2f5995b54)
 
 ![2](https://github.com/amanverma2253/major-project/assets/80351823/4922b783-eef4-4043-a7bd-ee1b8e0184b1)
